@@ -6,8 +6,9 @@ purpose of the file is to pass control to the app’s first module.
 
 import "./bundle-config";
 import * as application from 'application';
+import './tslib.nativescript';
 
-application.start({ moduleName: 'main-page' });
+application.start({ moduleName: 'views/main-page' });
 
 /*
 Do not place any code after the application has been started as it will not

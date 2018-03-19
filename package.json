@@ -10,7 +10,8 @@
 		}
 	},
 	"dependencies": {
-		"nativescript-health-data": "^1.0.2",
+		"momentjs": "^2.0.0",
+		"nativescript-health-data": "^1.1.0",
 		"nativescript-theme-core": "~1.0.4",
 		"tns-core-modules": "~3.4.0"
 	},
