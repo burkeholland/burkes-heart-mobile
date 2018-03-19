@@ -1,0 +1,21 @@
+{
+	"description": "NativeScript Application",
+	"license": "SEE LICENSE IN <your-license-filename>",
+	"readme": "NativeScript Application",
+	"repository": "<fill-your-repository-here>",
+	"nativescript": {
+		"id": "org.nativescript.nsheartbulb",
+		"tns-ios": {
+			"version": "3.4.1"
+		}
+	},
+	"dependencies": {
+		"nativescript-health-data": "^1.0.2",
+		"nativescript-theme-core": "~1.0.4",
+		"tns-core-modules": "~3.4.0"
+	},
+	"devDependencies": {
+		"nativescript-dev-typescript": "~0.6.0",
+		"typescript": "~2.4.2"
+	}
+}
