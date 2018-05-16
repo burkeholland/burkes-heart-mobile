@@ -4,7 +4,7 @@
 	"readme": "NativeScript Application",
 	"repository": "<fill-your-repository-here>",
 	"nativescript": {
-		"id": "org.nativescript.nsheartbulb",
+		"id": "com.burke.heartbulb",
 		"tns-ios": {
 			"version": "3.4.1"
 		}
